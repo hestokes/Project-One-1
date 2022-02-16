@@ -1,5 +1,12 @@
 # <HoliMovie>
 
+## Table of Contents 
+
+- Description
+- Installation and Usage
+- Visit Deployed Website
+- Credits  
+  
 ## Description
 
 Welcome to HoliMovie.  This app was created as a collaborative project between classmates to answer a question that seems trivial, but that ties us all together. When was/is that holiday? Holidays are celebratory times universally shared. No matter a person's nationality, every country shares the joy of having holidays.  To this end, HoliMovie provides a tool to predict or recall, by year, the dates of holidays in 110 countries. HoliMovie aims to serve educators seeking classroom enrichment, human resources staff wishing to celebrate employees, academics performing research, and any other user interested in applying it. 
@@ -17,13 +24,6 @@ In creating this app, we learned, and applied, the following:
 - Teamwork and team management
   
 We hope that you enjoy HoliMovie as the practical and joyful tool it is meant to be. Please feel free to reach out to the team with questions, comments, and suggestions to improve our app. 
-
-
-## Table of Contents 
-
-- Description
-- Installation and Usage
-- Credits
 
 ## Installation and Usage
 
